@@ -156,7 +156,7 @@ input[type="submit"]:hover{
   transition: .5s;
 }
 .media{
-  height: 550px;
+  height: 530px;
   display: flex;
   justify-content: center;
   align-items: flex-end;
